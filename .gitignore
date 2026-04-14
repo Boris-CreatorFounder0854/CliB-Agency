@@ -1,0 +1,8 @@
+# Temporary screenshots and local-only files
+Temporary screenshots/
+Screenshot examples/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
